@@ -1,2 +1,2 @@
 #!/bin/bash
-is -is > is_cwd_content
+is -la >is_cwd_content
