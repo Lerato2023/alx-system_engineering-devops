@@ -1,1 +1,1 @@
-test my 2-groups
+my first shell basics
